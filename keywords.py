@@ -22,3 +22,7 @@ These are Bulit-in Commands:
 | **Functional Programming** | `map()`, `filter()`, `reduce()` *(from functools)*, `any()`, `all()`          |
 | **Utility / Misc.**        | `help()`, `eval()`, `exec()`, `hash()`, `vars()`, `globals()`, `locals()`     |
 
+
+
+
+ This are keywords that i have added
