@@ -1,6 +1,5 @@
 this are summary in python
-
-
+Hey i am learning these.
 
 | Category           | Examples                           |
 | ------------------ | ---------------------------------- |
